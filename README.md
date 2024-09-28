@@ -71,11 +71,11 @@ For any issues or problems with the material in this repository, please send an 
 # References
 If you make use of any material from this repository, please cite
 ```
-@inproceedings{TO_BE_APPEARED,
-  title={Cross-model temporal cooperation via saliency maps for efficient recognition and classification of relevant traffic lights},
+@inproceedings{trinci2023cross,
+  title={Cross-Model Temporal Cooperation Via Saliency Maps for Efficient Recognition and Classification of Relevant Traffic Lights},
   author={Trinci, Tomaso and Bianconcini, Tommaso and Sarti, Leonardo and Taccari, Leonardo and Sambo, Francesco},
-  booktitle={2023 IEEE 26rd International Conference on Intelligent Transportation Systems (ITSC)},
-  pages={x--x},
+  booktitle={2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)},
+  pages={2758--2763},
   year={2023},
   organization={IEEE}
 }
